@@ -19,7 +19,7 @@
   },
   {
     "category": "Videojuegos",
-    "question": "¿Cuál es el nombre del protagonista de "The legend of Zelda"?",
+    "question": "¿Cuál es el nombre del protagonista de 'The legend of Zelda'?",
     "options": ["Mario", "Sonic", "Link", "Donkey Kong"],
     "answer": 2
   },
