@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Geografía",
+    "description": "Preguntas relacionadas localizaciones de algún país o alguna cápital."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
-  },
-  {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
-  },
-  {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Literatura",
+    "description": "Preguntas relacionadas con algún libro, título u autor."
   },
   {
     "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "description": "Preguntas relacionadas con eventos importantes del pasado que marcarón un antes y un después en la humanidad."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Videojuegos",
+    "description": "Preguntas relacionadas con algo de videojuegos, ya sea título o algún nombre de personajes."
+  },
+  {
+    "category": "Matemáticas",
+    "description": "Preguntas relacionadas con alguna ecuación matemática simple."
+  },
+  {
+    "category": "Lógica",
+    "description": "Preguntas relacionadas con diferentes una rama de la ciencia, la lógica, usualmente algo similar a un acertijo."
   }
 ]
