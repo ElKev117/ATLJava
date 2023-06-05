@@ -40,4 +40,5 @@
   "options": ["De su hijo", "De su padre", "De él mismo", "De su hermano"],
   "answer": 0,
   "explanation": "De el mismo, ya que si es el hijo de su padre es el o sus hermanos, pero desde el inicio se especifica que no tiene hermanos."
-}]
+  }
+  ]
