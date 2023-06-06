@@ -1,8 +1,0 @@
-  {
-  "category": "Lógica",
-  "question": "Un hombre mira una foto y dice: 'Hermanos y hermanas no tengo, pero el padre de este hombre es el hijo de mi padre'. ¿De quién es la foto?",
-  "options": ["De su hijo", "De él mismo", "De su hermano"],
-  "answer": 0,
-  "explanation": "De su hijo, ya que si es el hijo de su padre es el o sus hermanos, pero desde el inicio se especifica que no tiene hermanos."
-  }
-
